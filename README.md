@@ -41,23 +41,23 @@
 ✅ Created and explored dashboard sections for:
 
   CPU usage
-    ![Netdata cpu Dashboard](./cpu-dashboard)
+    ![Netdata cpu Dashboard](./cpu-dashboard.png)
   Disk I/O
-    ![Netdata cpu Dashboard](./disk-dashboard)
+    ![Netdata cpu Dashboard](./disk-dashboard.png)
   Memory usage
-    ![Netdata cpu Dashboard](./ram-dashboard)
+    ![Netdata cpu Dashboard](./ram-dashboard.png)
   Basic Docker container visibility (health/status)
-    ![Netdata cpu Dashboard](./docker-dashboard)
+    ![Netdata cpu Dashboard](./docker-dashboard.png)
 ✅ Explored:
 
   Real-time chart panels
-  ![Netdata Dashboard](./dashboard)
+  ![Netdata Dashboard](./dashboard.png)
   System alerts
-  ![Netdata alerts](./alerts)
+  ![Netdata alerts](./alerts.png)
   Metrics breakdown per service/component
-  ![Netdata metrics](./metrics)
+  ![Netdata metrics](./metrics.png)
   Windows Logs
-  ![Netdata Logs](./logs)
+  ![Netdata Logs](./logs.png)
     
 ## 📜 Logs & Debugging
 Accessed container logs:
